@@ -1,3 +1,6 @@
+@media only screen and (max-width: 600px) {
+  
+
 *{
   font-family: sans-serif;
 }
@@ -75,6 +78,83 @@ a{
 list-style: none;
 display: flex;
 }
+}
 
+*{
+  font-family: sans-serif;
+}
+.dominos{
 
+ font-size: 6rem;
+ font-weight: 700;
+ color: #006491;
+}
+.tagline{
+
+  font-size: 2rem; 
+  font-weight: 200;
+  color: #e31837;
+}
+.link{
+  text-decoration: none;
+  color:#e31837 ;
+}
+.exploreh2{
+ 
+  font-size: 2rem;
+ font-weight: 550;
+  color: #006391ab;
+}
+.card-title{
+  font-weight: 550;
+}
+.card-footer{
+  font-weight: 550;
+  color:#e31837 ;
+}
+#offers{
+ background-color: #f2f5fc; 
+}
+#h2-off2ndcol{
+  color: #56668b;
+  font-weight: 550;
+  font-size: 5vh;
+
+}
+#p-off2ndcol{
+  font-size: 3vh; 
+  font-weight: 520;
+  color: #869cc9;
+}
+.pizzamenutitle{
+  text-align: center;
+  
+  font-size: 2rem;
+ font-weight: 550;
+  color: #006391ab;
+}
+.menu-title{
+  color:#e31837 ;
+}
+.list-header{
+  color: #4d5f74;
+  font-size: large;
+  font-weight: 550;
+  list-style-type: none;
+}
+#rowforfooter{
+  background-color:  #1f3142;
+}
+.footerul{
+  list-style-type: none;
+  color: #d0cfd9;
+}
+a{
+  text-decoration: none;
+  list-style: none;
+}
+.footerulimg{
+list-style: none;
+display: flex;
+}
 
